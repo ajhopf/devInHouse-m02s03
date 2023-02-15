@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9f99d91-0104-4f91-b7e9-786df448427f" name="Changes" comment="" />
+    <list default="true" id="e9f99d91-0104-4f91-b7e9-786df448427f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dietClinic/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dietClinic/src/Clinica.java" beforeDir="false" afterPath="$PROJECT_DIR$/dietClinic/src/Clinica.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2LjNUhfHRCZbP4GuJ85xl3BpKTT" />
   <component name="ProjectViewState">
@@ -16,7 +22,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/workspace/devInHouse-m02-s03/dietClinic",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,7 +36,11 @@
       <option name="presentableId" value="Default" />
       <updated>1676380550364</updated>
       <workItem from="1676380551443" duration="2000" />
+      <workItem from="1676471100241" duration="12000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
