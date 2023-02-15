@@ -1,21 +1,35 @@
 public class Cliente {
     //exercício 3
-    Double peso;
-    Double altura;
-    Integer idade;
-    Clinica clinica;
+    private Double peso;
+    private Double altura;
+    private Integer idade;
 
     public Cliente(
             Double peso,
             Double altura,
-            Integer idade,
-            Clinica clinica) {
+            Integer idade) {
         this.peso = peso;
         this.altura = altura;
         this.idade = idade;
-        this.clinica = clinica;
 
-        //exercício 4
-        clinica.adicionarCliente(this);
+    }
+
+    public Cliente(
+            Double peso,
+            Double altura) {
+        this.peso = peso;
+        this.altura = altura;
+    }
+
+    public Double getPeso(){
+        return peso;
+    }
+
+    public Double getAltura() {
+        return altura;
+    }
+
+    public Integer getIdade() {
+        return idade;
     }
 }
